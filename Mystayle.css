@@ -1,0 +1,75 @@
+/* 
+h1{
+    text-align: center
+    
+
+}  
+.one{
+    color: purple;
+    background-color: plum;
+    margin: 100;
+    border: 5px solid purple
+}
+.two{
+    color: rgb(31, 122, 134);
+    background-color: rgb(179, 115, 115);
+} */
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.mydiv{
+    background-color: #D9EEE1;
+    width: 30%;
+    padding: 15px 0px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 50px auto;
+    box-shadow: 1px 22px 20px -3px rgba(0,0,0,0.64);
+}
+.mydiv:hover{
+    border: 2px solid black;
+}
+
+.heading { 
+    font-size: 100px;
+    font-weight: 700;
+    
+    }
+
+.subtitles { 
+    font-size: 19px;
+    
+    
+    }
+
+a { 
+    font-size: 18px;
+     background-color: #000;
+    width: 200px;
+    margin: 15px auto; 
+    padding: 12px;
+    display: block;
+    text-decoration: none;
+    border-radius: 25px;
+    
+}
+.Learn{
+    color: white;
+    background-color: #04AA6D;
+}
+.Video{
+    color: black;
+    background-color: #FFF4A3;
+}
+
+.Reference{
+    color: white;
+    background-color: #282A35;
+}
+
+.Certified{
+    color: black;
+    background-color: #FFC0C7
+}
